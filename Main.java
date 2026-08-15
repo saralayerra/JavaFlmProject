@@ -9,4 +9,9 @@ public class Main
 		int sum=a+b;
 		System.out.println(sum);
 	}
+	public static void sub(int a,int b)
+	{
+		int sub=a-b;
+		System.out.println(sub);
+	}
 }
