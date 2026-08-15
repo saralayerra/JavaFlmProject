@@ -14,4 +14,9 @@ public class Main
 		int sub=a-b;
 		System.out.println(sub);
 	}
+	public static void div(int a,int b)
+	{
+		int div=a-b;
+		System.out.println(div);
+	}
 }
