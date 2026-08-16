@@ -19,4 +19,5 @@ public class Main
 		int div=a-b;
 		System.out.println(div);
 	}
+	System.out.println("Program is completed..");
 }
