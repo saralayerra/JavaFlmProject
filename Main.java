@@ -21,4 +21,11 @@ public class Main
 	}
 	System.out.println("Program is completed..");
 	System.out.println("Bye...........");
+	public static void mul(int a,int b)
+	{
+		int mul=a*b;
+		System.out.println(mul);
+	}
+	
+
 }
