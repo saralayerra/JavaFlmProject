@@ -26,6 +26,6 @@ public class Main
 		int mul=a*b;
 		System.out.println(mul);
 	}
-	System.out.println("Thank you Guyss........");
+	System.out.println("Thank you Guys");
 
 }
