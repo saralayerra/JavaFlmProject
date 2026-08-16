@@ -20,4 +20,11 @@ public class Main
 		System.out.println(div);
 	}
 	System.out.println("Program is completed..");
+	public static void mul(int a,int b)
+	{
+		int mul=a*b;
+		System.out.println(mul);
+	}
+	
+
 }
