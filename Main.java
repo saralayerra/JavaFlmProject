@@ -20,4 +20,5 @@ public class Main
 		System.out.println(div);
 	}
 	System.out.println("Program is completed..");
+	System.out.println("Bye...........");
 }
